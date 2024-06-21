@@ -1,8 +1,8 @@
 let ListContainer = document.getElementById(`List-Container`);
 let InputBox = document.getElementById(`Input-box`);
+let button =document.getElementById(`button`)
 
-
-function addTask() {
+button.onclick = function addTask() {
     if (InputBox.value === "") {
         alert("You must insert something!")
     }
