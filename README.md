@@ -1,4 +1,4 @@
-## To-Do List Project
+# To-Do List Project 📝
 
 This is a simple To-Do List project built using HTML, CSS, and JavaScript. The lil project allows users to add, mark as complete, and delete tasks. Tasks are saved in the browser's local storage, so they persist even after the page is refreshed.
 
