@@ -39,6 +39,10 @@ Click the "×" button next to the task you want to delete.
 
 
 
+<img width="1440" alt="Ss_To-Do-List" src="https://github.com/cole15sky/To-Do-List/assets/133042152/0ff372a0-09b4-4210-80ad-e51324dcb05f">
+
+
+
 
 
 
